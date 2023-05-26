@@ -63,7 +63,7 @@ I have attached project report and sysnopsis in documents folder of project.
 
 1. #### Clone form Github
 ```
-git clone https://github.com/Nitish-Goswami/Learn2Earn.git
+git clone https://github.com/ritesh-dotcom2/Learn2Earn.git
 cd Learn2Earn
 npm i 
 ```
